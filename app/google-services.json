@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "595087399004",
+    "firebase_url": "https://awak-7b04c.firebaseio.com",
+    "project_id": "awak-7b04c",
+    "storage_bucket": "awak-7b04c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595087399004:android:696add42f5728d915cee99",
+        "android_client_info": {
+          "package_name": "com.awak.wekare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595087399004-puu30b88vup5310bde8hj22tfqja7gsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awak.wekare",
+            "certificate_hash": "9897e26a060ab50ea47e1019a809eb53bdba2f46"
+          }
+        },
+        {
+          "client_id": "595087399004-urp3qlqfvcs01ca290nv3snci92lrj0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbH9rmJ6zcq70I2HaLETLCocW4uU97UP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595087399004-urp3qlqfvcs01ca290nv3snci92lrj0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595087399004-20uie862rf94d3rvp94uk1c0o71i50li.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awak.wecare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

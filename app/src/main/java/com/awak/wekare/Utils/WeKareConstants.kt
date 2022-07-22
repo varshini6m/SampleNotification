@@ -1,0 +1,55 @@
+package com.awak.wekare.Utils
+
+object WeKareConstants {
+    const val _12_TIME_FORMAT = "hh:mm aa"
+    const val _24_TIME_FORMAT = "HH:mm"
+    const val MORNING = "Morning"
+    const val AFTERNOON = "Afternoon"
+    const val EVENING = "Evening"
+    const val NIGHT = "Night"
+    const val MORNING_WORK = "MORNING_WORK"
+    const val APPOINTMENT_WORK = "APPOINTMENT_WORK"
+    const val CAPD_REMINDER_WORK = "CAPD_REMINDER_WORK"
+    const val MORNING_PERIODIC_WORK = "MORNING_PERIODIC_WORK_"
+    const val AFTERNOON_PERIODIC_WORK = "AFTERNOON_PERIODIC_WORK_"
+    const val BG_WORK = "BG_WORK"
+    const val EVENING_PERIODIC_WORK = "EVENING_PERIODIC_WORK_"
+    const val NIGHT_PERIODIC_WORK = "NIGHT_PERIODIC_WORK_"
+    const val AFTERNOON_WORK = "AFTERNOON_WORK"
+    const val EVENING_WORK = "EVENING_WORK"
+    const val NIGHT_WORK = "NIGHT_WORK"
+    const val NOTIFICATIONS_INFO = "NOTIFICATIONS_INFO"
+    const val NOTIFICATIONS_TITLE = "NOTIFICATIONS_TITLE"
+    const val NOTIFICATION_ID = "NOTIFICATION_ID"
+    const val NOTIFICATION_CHANNEL_ID = "Default"
+    const val NOTIFICATION_CHANNEL_IMPORTANT_ID = "Important"
+    const val NOTIFICATION_CHANNEL_NAME = "Med Tele Consult Reminders"
+    const val NOTIFICATION_CHANNEL_IMPORTANT_NAME = "Important Notifications"
+    const val NOTIFICATION_CHANNEL_ID_TR = "TR"
+    const val NOTIFICATION_CHANNEL_NAME_TR = "Therapy Reminders"
+    const val NOTIFICATION_CHANNEL_ID_MED = "MED"
+    const val NOTIFICATION_CHANNEL_NAME_MED = "Med Tele Consult Reminders"
+
+    const val IS_FROM_NOTIFICATION = "is_from_notification"
+    const val IS_MEDICATION_REMINDER = "is_medication_reminder"
+    const val IS_FROM_THERAPY = "is_from_therapy"
+    const val INSTRUCTION_KEY = "instruction"
+    const val REMINDER_TELE_CONSULT = "TeleConsult_"
+
+    const val MORNING_DEFAULT_TIME = "06:00 am"
+    const val AFTERNOON_DEFAULT_TIME = "12:00 pm"
+    const val EVENING_DEFAULT_TIME = "05:00 pm"
+    const val NIGHT_DEFAULT_TIME = "08:00 pm"
+
+    const val MORNING_MIN_TIME = "1:00 AM"
+    const val MORNING_MAX_TIME = "11:00 AM"
+
+    const val AFTERNOON_MIN_TIME = "12:00 PM"
+    const val AFTERNOON_MAX_TIME = "3:00 PM"
+
+    const val EVENING_MIN_TIME = "4:00 PM"
+    const val EVENING_MAX_TIME = "6:00 PM"
+
+    const val NIGHT_MIN_TIME = "6:00 PM"
+    const val NIGHT_MAX_TIME = "11:50 PM"
+}

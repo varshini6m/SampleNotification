@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Varshinimegha\\Downloads\\Drink-it_Materials-1\\Drink-it_Materials\\final\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Varshinimegha\\.gradle\\caches\\transforms-2\\files-2.1\\9cdd386b1f90d94a4a2b64551e8ad05d\\jetified-clevertap-android-sdk-4.1.0\\res\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,146,199,257,316,373,427",
+                        "endColumns": "39,50,52,57,58,56,53,51",
+                        "endOffsets": "90,141,194,252,311,368,422,474"
+                    }
+                }
+            ]
+        }
+    ]
+}

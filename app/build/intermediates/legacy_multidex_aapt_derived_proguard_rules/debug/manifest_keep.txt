@@ -1,0 +1,4 @@
+# Referenced at C:\Users\Varshinimegha\Downloads\Drink-it_Materials-1\Drink-it_Materials\final\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:25
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Varshinimegha\Downloads\Drink-it_Materials-1\Drink-it_Materials\final\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:25
+-keep class com.awak.wekare.WeKareApplication { <init>(); }
